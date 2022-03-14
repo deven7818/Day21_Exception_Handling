@@ -21,5 +21,14 @@ public class UserRegistrationExMain {
     	 * calling firstName method to ensure valid first name
     	 */
     	user.firstName();
+    	
+    	/**
+    	 * Calling email method to ensure valid email 
+    	 */
+    	user.lastName();
+    	/**
+    	 * Calling email method to ensure valid email 
+    	 */
+    	user.email();
     }
 }
