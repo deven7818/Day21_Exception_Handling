@@ -23,8 +23,11 @@ public class UserRegistrationExMain {
     	user.firstName();
     	
     	/**
-    	 * calling lastName method to ensure valid last name
+    	 * calling firstName method to ensure valid first name
     	 */
     	user.lastName();
+    
+
+    	
     }
 }
